@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitle" type="id" />
+    <item name="tvGenre" type="id" />
+    <item name="tvYear" type="id" />
+    <item name="spinner" type="id" />
+    <item name="btnInsert" type="id" />
+    <item name="btnShow" type="id" />
+    <item name="tvId" type="id" />
+    <item name="btnUpdate" type="id" />
+    <item name="btnDel" type="id" />
+    <item name="btnCancel" type="id" />
+    <item name="lv" type="id" />
+    <item name="tbAge" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="textViewGenre" type="id" />
+    <item name="textViewYear" type="id" />
+    <item name="imageViewRating" type="id" />
+</resources>
